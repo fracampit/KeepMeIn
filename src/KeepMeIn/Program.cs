@@ -35,7 +35,6 @@ namespace KeepMeIn
             Console.WriteLine("\n            ██╗  ██╗███████╗███████╗██████╗     ███╗   ███╗███████╗    ██╗███╗   ██╗\n            ██║ ██╔╝██╔════╝██╔════╝██╔══██╗    ████╗ ████║██╔════╝    ██║████╗  ██║\n            █████╔╝ █████╗  █████╗  ██████╔╝    ██╔████╔██║█████╗      ██║██╔██╗ ██║\n            ██╔═██╗ ██╔══╝  ██╔══╝  ██╔═══╝     ██║╚██╔╝██║██╔══╝      ██║██║╚██╗██║\n            ██║  ██╗███████╗███████╗██║         ██║ ╚═╝ ██║███████╗    ██║██║ ╚████║\n            ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝         ╚═╝     ╚═╝╚══════╝    ╚═╝╚═╝  ╚═══╝\n                                                                                    \n");
             
             Console.WriteLine("This app will prevent your screen from locking itself up.");
-            Console.WriteLine("Just close this window to stop the app.");
             Console.WriteLine("Do you want to quit? (y/n)");
         }
     }
